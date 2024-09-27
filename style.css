@@ -1,5 +1,82 @@
+nav{
+	font-weight: 200;
+	text-align: right;
+	text-decoration: underline;
+}
+
+.header{
+	padding:0%;
+	line-height: 10px;
+	font-weight: 200;
+}
+
 body{
-	color: navy;
-	font-family: Inter;
+	background-color: cream;
+	color: black;
+	font-family: DM Sans, Inter;
+	font-size: 16px;
+	padding: 60px;
+}
+
+#intro-quote{
+	font-style: italic;
+	text-align: center;
+	font-weight: 200;
+	margin-top: 20px;
+	margin-bottom: 65px;
+}
+
+h1{
+	font-family: DM Serif Display;
+	text-transform: uppercase;
+	letter-spacing: 25px;
+	color: #080068;
+	font-size: 48px;
+	text-align: center;
+	padding-top: 40px;
+}
+
+h2{
+	font-family: DM Serif Display;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	color: #080068;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: 550;
+	margin-bottom: 20px;
+}
+
+p{
+	padding-left: 40%;
+	line-height: 25px;
+	font-weight: 200;
+	margin-bottom: 15px;
+}
+
+blockquote{
+	font-style: italic;
+	padding-left: 45%;
+	line-height: 25px;
+	font-weight: 200;
+	margin-bottom: 15px;
+}
+
+footer{
+	font-weight: 200;
+	text-align: right;
+	text-decoration: underline;
+}
+
+section{
+	margin-bottom: 50px;
+}
+
+strong{
+	font-weight: 400;
+}
+
+em{
+	font-style: italic;
 }
 
