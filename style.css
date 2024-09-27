@@ -43,6 +43,14 @@ h1{
 	padding-top: 30px;
 }
 
+div{
+	background-color:#3F5CAC;
+	color: cream;
+	padding: 1px;
+	margin-bottom:20px;
+	
+}
+
 h2{
 	font-family: DM Serif Display;
 	text-transform: uppercase;
@@ -50,8 +58,7 @@ h2{
 	color: #080068;
 	font-size: 16px;
 	font-style: italic;
-	font-weight: 550;
-	margin-bottom: 20px;
+	font-weight: 550;;
 }
 
 p{
