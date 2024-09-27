@@ -14,7 +14,7 @@ nav ul {
 }
 
 header{
-	background-color: #080068;
+	background-color: #050a4d;
 	padding: 0px;
 	margin: 0px;
 	height: 10vh;
@@ -92,6 +92,7 @@ blockquote{
 }
 
 footer{
+	color: #080068;
 	font-size: 14px;
 	font-weight: 200;
 	text-align: right;
