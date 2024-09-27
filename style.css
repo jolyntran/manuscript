@@ -21,6 +21,8 @@ body{
 	font-family: DM Sans, Inter;
 	font-size: 16px;
 	padding: 30px;
+	margin-left: 50px;
+	margin-right: 50px;
 }
 
 #intro-quote{
@@ -61,8 +63,9 @@ p{
 }
 
 blockquote{
+	font-size: 14px;
 	font-style: italic;
-	padding-left: 40%;
+	padding-left: 42%;
 	line-height: 25px;
 	font-weight: 200;
 	margin-bottom: 15px;
