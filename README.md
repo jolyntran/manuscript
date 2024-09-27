@@ -1,1 +1,1 @@
-hello world
+Add a brief README.md to the root/base of your repo—describing the project, your readings, how you made it, things you want to remember, etc. This is good GitHub practice! Both for others, and Future You
