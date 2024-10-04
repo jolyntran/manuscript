@@ -150,6 +150,18 @@ strong{
 
 em{
 	font-style: italic;
+	color: #3F5CAC;
+	font-weight: 400;
+}
+
+mark{
+	background-color: #3F5CAC;
+	color: white
+}
+
+mark:hover{
+	background-color:#bced09;
+	color: #050a4d;
 }
 
 div{
