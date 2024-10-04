@@ -21,8 +21,7 @@ nav li {
     padding: 9px 20px;
 	border: solid 1.5px;  
     border-radius: 50px;
-	transition-duration: 0.4s;
-	-webkit-transition:  0.3s;
+	transition: all ease 0.3s;
 }
 
 .button:hover {
@@ -30,8 +29,7 @@ nav li {
     background-color: #050a4d;
 	border: solid #FBFBF9 1.5px;
 	padding: 9px 20px;
-	transition-duration: 0.3s;
-	-webkit-transition: all 0.3s;
+	transition: all ease 0.3s;
 }
 
 header{
@@ -135,8 +133,7 @@ footer{
     padding: 9px 20px;  
 	border: solid 1.5px;  
     border-radius: 50px;  
-	transition-duration: 0.3s;  
-	-webkit-transition: all 0.3s;
+	transition: all ease 0.3s;  
 }
 
 .footer-button:hover {
@@ -144,8 +141,7 @@ footer{
     background-color: #FBFBF9;
 	border: solid #050a4d 1.5px;
 	padding: 9px 20px;
-	transition-duration: 0.3s;
-	-webkit-transition: all 0.3s;
+	transition: all ease 0.3s;
 }
 
 section{
@@ -165,15 +161,13 @@ em{
 mark{
 	background-color: #3F5CAC;
 	color: white;
-	transition-duration: 0.3s;
-	-webkit-transition: all 0.3s;
+	transition: all ease 0.3s;
 }
 
 mark:hover{
 	background-color:#bced09;
 	color: #050a4d;
-	transition-duration: 0.3s;
-	-webkit-transition: all 0.3s;
+	transition: all ease 0.3s;
 }
 
 div{
