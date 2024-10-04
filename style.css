@@ -29,6 +29,7 @@ nav li {
     background-color: #050a4d;
 	border: solid #FBFBF9 1.5px;
 	padding: 9px 20px;
+	transition-duration: 0.3s;
 }
 
 header{
@@ -139,7 +140,8 @@ footer{
 	color: #050a4d;
     background-color: #FBFBF9;
 	border: solid #050a4d 1.5px;
-	padding: 9px 20px;   
+	padding: 9px 20px;
+	transition-duration: 0.3s;
 }
 
 section{
@@ -165,6 +167,7 @@ mark{
 mark:hover{
 	background-color:#bced09;
 	color: #050a4d;
+	transition-duration: 0.3s;
 }
 
 div{
