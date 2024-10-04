@@ -26,7 +26,8 @@ header{
 .left-header{
 	padding:0%;
 	line-height: 10px;
-	font-weight: 255;
+	font-weight: 215;
+	font-size: 16px;
 }
 
 body{
@@ -34,7 +35,6 @@ body{
 	color: black;
 	font-family: DM Sans, Inter;
 	font-size: 16px;
-	padding: 5%;
 }
 
 article{
@@ -44,11 +44,12 @@ article{
 }
 
 #intro-quote{
+	font-size: 16px;
 	font-style: italic;
 	text-align: center;
 	font-weight: 225;
-	margin-top: 20px;
-	margin-bottom: 65px;
+	margin-top: 15px;
+	margin-bottom: 110px;
 }
 
 h1{
@@ -71,25 +72,29 @@ h2{
 	position: sticky;
 	width: 100%;
 	top: 50px;
+	-webkit-text-stroke: 11px #FBFBF9;
 }
+
+.h2-stroke {
+	paint-order: stroke fill;
+ }
 
 hr{
 	background-color:#3F5CAC;
 	height: 2px;
 	margin-bottom: 20px;
-	width: 100%;
   }
 
 p{
 	font-size: 16px;
 	padding-left: 50%;
 	line-height: 25px;
-	font-weight: 225;
+	font-weight: 220;
 	margin-bottom: 15px;
 }
 
 blockquote{
-	font-size: 14px;
+	font-size: 16px;
 	font-style: italic;
 	padding-left: 52%;
 	line-height: 25px;
@@ -120,3 +125,6 @@ em{
 	font-style: italic;
 }
 
+div{
+	margin: 2% 10% 1%;
+}
