@@ -1,19 +1,33 @@
 nav{
-	color: #FBFBF9;
-	font-size: 14px;
-	font-weight: 200;
+	color: #050a4d;    
+	font-size: 12px;
+	font-weight: 400;
 	text-align: right;
 	padding: 25px;
 	margin: 15px;
 }
 
 nav ul {
-    list-style-type: none; 
+    list-style-type: none;
 }
 
 nav li {
     display: inline;
-    margin-left: 20px;
+    margin-left: 10px;
+}
+
+.button {
+    background-color: #FBFBF9;   
+    padding: 9px 20px;    
+    border-radius: 50px;     
+    transition: all 0.3s ease;
+}
+
+.button:hover {
+	color: #FBFBF9;
+    background-color: #050a4d;
+	border: solid #FBFBF9 1.5px;
+	padding: 9px 20px;   
 }
 
 header{
