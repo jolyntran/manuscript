@@ -17,17 +17,17 @@ nav li {
 }
 
 .button {
-    background-color: #FBFBF9;   
-    padding: 9px 20px;    
-    border-radius: 50px;     
-    transition: all 0.3s ease;
+    background-color: #FBFBF9;
+    padding: 9px 20px;
+	border: solid 1.5px;  
+    border-radius: 50px;
 }
 
 .button:hover {
 	color: #FBFBF9;
     background-color: #050a4d;
 	border: solid #FBFBF9 1.5px;
-	padding: 9px 20px;   
+	padding: 9px 20px;
 }
 
 header{
@@ -73,7 +73,7 @@ h1{
 	color: #080068;
 	font-size: 40px;
 	text-align: center;
-	padding-top: 25px;
+	padding-top: 30px;
 }
 
 h2{
@@ -117,14 +117,27 @@ blockquote{
 }
 
 footer{
-	color: #080068;
+	color: #FBFBF9;
 	font-size: 14px;
-	font-weight: 200;
+	font-weight: 400;
 	text-align: right;
-	text-decoration: underline;
 	padding: 30px;
 	margin-left: 50px;
 	margin-right: 50px;
+}
+
+.footer-button {
+    background-color: #050a4d;   
+    padding: 9px 20px;  
+	border: solid 1.5px;  
+    border-radius: 50px;     
+}
+
+.footer-button:hover {
+	color: #050a4d;
+    background-color: #FBFBF9;
+	border: solid #050a4d 1.5px;
+	padding: 9px 20px;   
 }
 
 section{
