@@ -21,6 +21,7 @@ nav li {
     padding: 9px 20px;
 	border: solid 1.5px;  
     border-radius: 50px;
+	transition-duration: 0.4s;
 }
 
 .button:hover {
@@ -130,7 +131,8 @@ footer{
     background-color: #050a4d;   
     padding: 9px 20px;  
 	border: solid 1.5px;  
-    border-radius: 50px;     
+    border-radius: 50px;  
+	transition-duration: 0.4s;   
 }
 
 .footer-button:hover {
@@ -156,7 +158,8 @@ em{
 
 mark{
 	background-color: #3F5CAC;
-	color: white
+	color: white;
+	transition-duration: 0.3s;
 }
 
 mark:hover{
