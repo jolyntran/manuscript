@@ -68,13 +68,13 @@ h2{
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	color: #080068;
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: 550;;
 }
 
 p{
-	font-size: 14px;
-	padding-left: 40%;
+	font-size: 16px;
+	padding-left: 50%;
 	line-height: 25px;
 	font-weight: 225;
 	margin-bottom: 15px;
@@ -83,7 +83,7 @@ p{
 blockquote{
 	font-size: 14px;
 	font-style: italic;
-	padding-left: 42%;
+	padding-left: 52%;
 	line-height: 25px;
 	font-weight: 200;
 	margin-bottom: 15px;
