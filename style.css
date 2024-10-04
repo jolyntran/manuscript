@@ -57,13 +57,11 @@ h1{
 	padding-top: 30px;
 }
 
-div{
+hr{
 	background-color:#3F5CAC;
-	color: cream;
-	padding: 1px;
-	margin-bottom:20px;
-	
-}
+	height: 2px;
+	margin-bottom: 20px;
+  }
 
 h2{
 	font-family: DM Serif Display;
