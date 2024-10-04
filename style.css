@@ -3,14 +3,17 @@ nav{
 	font-size: 14px;
 	font-weight: 200;
 	text-align: right;
-	text-decoration: underline;	
-	padding: 15px;
-	margin-left: 50px;
-	margin-right: 50px;
+	padding: 25px;
+	margin: 15px;
 }
 
 nav ul {
     list-style-type: none; 
+}
+
+nav li {
+    display: inline;
+    margin-left: 20px;
 }
 
 header{
@@ -31,6 +34,7 @@ body{
 	color: black;
 	font-family: DM Sans, Inter;
 	font-size: 16px;
+	padding: 5%;
 }
 
 article{
@@ -57,20 +61,24 @@ h1{
 	padding-top: 30px;
 }
 
-hr{
-	background-color:#3F5CAC;
-	height: 2px;
-	margin-bottom: 20px;
-  }
-
 h2{
 	font-family: DM Serif Display;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	color: #080068;
 	font-size: 18px;
-	font-weight: 550;;
+	font-weight: 550;
+	position: sticky;
+	width: 100%;
+	top: 50px;
 }
+
+hr{
+	background-color:#3F5CAC;
+	height: 2px;
+	margin-bottom: 20px;
+	width: 100%;
+  }
 
 p{
 	font-size: 16px;
